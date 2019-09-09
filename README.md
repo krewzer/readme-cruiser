@@ -23,7 +23,7 @@ $ npm install readme-cruiser
 ## Usage
 
 For an exhaustive overview of this project, check out the API docs on
-[Gitbook]()
+[Gitbook]().
 
 ## License
 
