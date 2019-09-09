@@ -1,18 +1,18 @@
 # readme-cruiser
 
->Cruise through readme files of npm modules in your node project.
+> Cruise through readme files of npm modules in your node project.
 
 ![](https://img.shields.io/github/commit-activity/m/shermix/readme-cruiser?style=plastic)
 
 ## Goals
 
-- test
-- test1
+- Make a npm module depndency tree with Graphwiz or similar tool
+- Integrate Codemirror for displaying package json in a Vue component
 
 ## Features/Roadmap
 
-- [ ] test
-- [X] test1
+- [ ] An API for readme-cruiser which renders module's readme file as markdown formatted text in terminal
+- [ ] A GUI based web app based upon the API
 
 ## Installation
 
@@ -24,8 +24,8 @@ $ npm install readme-cruiser
 
 test
 
-For an exhaustive overview of this project, check out the
-[API docs]()
+For an exhaustive overview of this project, check out the API docs on
+[Gitbook]()
 
 ## License
 
