@@ -1,4 +1,6 @@
 # readme-cruiser
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshermix%2Freadme-cruiser.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshermix%2Freadme-cruiser?ref=badge_shield)
+
 
 > Cruise through readme files of npm modules in your node project.
 
@@ -35,7 +37,9 @@ For notes and exhaustive overview of this project, check out the docs on
 
 `Copyright (c) Ankesh Bharti`
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshermix%2Freadme-cruiser.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshermix%2Freadme-cruiser?ref=badge_large)
+
 ## Notice
 
 This module is currently a work-in-progress and is developed as a personal side project.
-
