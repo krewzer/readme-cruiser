@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/commit-activity/m/shermix/readme-cruiser?style=plastic)
 ![](https://img.shields.io/github/last-commit/shermix/readme-cruiser)
 
-file:///home/shermisaurus/Downloads/image%20url(1).jpg
+![](https://shermix.keybase.pub/image%20url(1).jpg)
 
 ## Goals
 
