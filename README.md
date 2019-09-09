@@ -11,7 +11,8 @@
 - Visualizing npm module depndencies as a tree with some graphing library, preferably Graphwiz
 - Codemirror API integration for embedding package.json text in browser
 - Building the API with JSDoc documentations
-- Web app with Vue/React JS Library 
+- PWA capable web app with Vue/React JS Library and Sematic UI CSS Framework
+
 
 ## Features/Roadmap
 
