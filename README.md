@@ -1,6 +1,6 @@
 # readme-cruiser 🚢
 
-> Cruise through readme files of npm modules in your node project.
+> Cruise through readme files of npm modules in your node project. (WIP)
 
 ![](https://img.shields.io/github/commit-activity/m/shermix/readme-cruiser?style=plastic)
 ![](https://img.shields.io/github/last-commit/shermix/readme-cruiser)
