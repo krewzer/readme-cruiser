@@ -1,0 +1,25 @@
+{
+  "name": "readme-cruiser",
+  "version": "0.0.0",
+  "description": "Cruise through readme files of npm modules in your node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shermix/readme-cruiser.git"
+  },
+  "keywords": [
+    "readme",
+    "npm",
+    "modules",
+    "node"
+  ],
+  "author": "shermix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shermix/readme-cruiser/issues"
+  },
+  "homepage": "https://github.com/shermix/readme-cruiser#readme"
+}
