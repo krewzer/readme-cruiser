@@ -21,7 +21,7 @@
 ## Installation
 
 ```
-$ npm install readme-cruiser
+$ █▒▒▒▒▒▒▒▒▒
 ```
 
 ## Usage
