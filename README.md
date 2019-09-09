@@ -1,4 +1,4 @@
-# readme-cruiser
+# readme-cruiser 🚢
 
 > Cruise through readme files of npm modules in your node project.
 
