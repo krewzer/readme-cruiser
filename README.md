@@ -9,9 +9,11 @@
 ## Goals
 
 - Visualizing npm module depndencies as a tree with some graphing library, preferably Graphwiz
-- Codemirror API integration for embedding package.json text in browser
-- Building the API with JSDoc documentations
-- PWA capable web app with Vue/React JS Library and Sematic UI CSS Framework
+- Codemirror API integration for embedding package.json text in web UI
+- Building the API and API documentation with JSDoc
+- Web app with Vue/React JS Library and Sematic UI CSS Framework
+- Proper Unit and E2E testing for the codebase
+- Authenticated user accounts with Github marketplace support
 
 
 ## Features/Roadmap
