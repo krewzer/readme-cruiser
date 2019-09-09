@@ -15,6 +15,7 @@
 - Web app with Vue/React JS Library and Sematic UI CSS Framework
 - Proper Unit and E2E testing for the codebase
 - Authenticated user accounts with Github marketplace support
+- Containerized Docker deployment for the web app
 
 
 ## Features/Roadmap
