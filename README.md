@@ -22,8 +22,6 @@ $ npm install readme-cruiser
 
 ## Usage
 
-test
-
 For an exhaustive overview of this project, check out the API docs on
 [Gitbook]()
 
