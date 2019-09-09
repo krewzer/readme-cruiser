@@ -3,16 +3,20 @@
 > Cruise through readme files of npm modules in your node project.
 
 ![](https://img.shields.io/github/commit-activity/m/shermix/readme-cruiser?style=plastic)
+![](https://img.shields.io/github/last-commit/shermix/readme-cruiser)
+
 
 ## Goals
 
-- Make a npm module depndency tree with Graphwiz or similar tool
-- Integrate Codemirror for displaying package json in a Vue component
+- Visualizing npm module depndencies as a tree with some graphing library, preferably Graphwiz
+- Codemirror API integration for embedding package.json text in browser
+- Building the API with JSDoc documentations
+- Web app with Vue/React JS Library 
 
 ## Features/Roadmap
 
-- [ ] An API for readme-cruiser which renders module's readme file as markdown formatted text in terminal
-- [ ] A GUI based web app based upon the API
+- [ ] A CLI based application based off the API for readme-cruiser which renders module's readme file as markdown formatted text in terminal.
+- [ ] A frontend web app for browser usage built on top of API.
 
 ## Installation
 
@@ -22,7 +26,7 @@ $ npm install readme-cruiser
 
 ## Usage
 
-For an exhaustive overview of this project, check out the API docs on
+For notes and exhaustive overview of this project, check out the docs on
 [Gitbook]().
 
 ## License
