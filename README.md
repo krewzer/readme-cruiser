@@ -32,7 +32,7 @@ $ █▒▒▒▒▒▒▒▒▒
 ## Usage
 
 For notes and exhaustive overview of this project, check out the docs on
-[Gitbook](https://shermix.gitbook.io/readme-cruiser/).
+[Gitbook](https://kami-kreuzer.gitbook.io/readme-cruiser/).
 
 ## License
 
